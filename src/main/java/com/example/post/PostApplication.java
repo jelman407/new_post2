@@ -19,4 +19,7 @@ public class PostApplication extends SpringBootServletInitializer  {
         SpringApplication.run(PostApplication.class, args);
     }
 
+
+
+
 }
